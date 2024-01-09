@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "module": "ES2020",
+    "moduleResolution": "Node",
+    "lib": ["ESNext"],
+    "types": ["@types/google-apps-script", "@hankei6km/gas-github-app-token"]
+  }
+}

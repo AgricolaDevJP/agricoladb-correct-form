@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@hankei6km/gas-github-app-token": "^0.1.0",
+    "@types/google-apps-script": "^1.0.78"
+  }
+}
